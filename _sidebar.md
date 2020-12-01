@@ -5,5 +5,6 @@
   - [秘书服务](/getstarted/concept)
   - [海外银行开户](/getstarted/concept)
 - **常见问题**
-  - [注册离岸工作操作](/qa/register_company)
+  - [注册离岸公司](/qa/register_company)
+  - [VAT](/qa/vat)
   - [其他](/qa/other)
